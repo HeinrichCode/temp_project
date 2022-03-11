@@ -1,0 +1,1 @@
+{'download_speed': '3.19', 'upload_speed': '7.61', 'timestamp': '2022-03-10T17:48:04', 'ping': 59.939}
